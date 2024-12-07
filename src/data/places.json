@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Great Wall of China",
+    "description": "An ancient series of walls and fortifications in northern China.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "visited": false
+  },
+  {
+    "id": "2",
+    "name": "Machu Picchu",
+    "description": "A 15th-century Inca citadel located in the Andes Mountains of Peru.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg",
+    "visited": false
+  },
+  {
+    "id": "3",
+    "name": "Taj Mahal",
+    "description": "An ivory-white marble mausoleum in Agra, India, built by Mughal Emperor Shah Jahan.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "visited": false
+  },
+  {
+    "id": "4",
+    "name": "Pyramids of Giza",
+    "description": "The iconic pyramids built by ancient Egyptians, located in Giza, Egypt.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "visited": false
+  },
+  {
+    "id": "5",
+    "name": "Colosseum",
+    "description": "A large amphitheater in Rome, Italy, built during the Roman Empire.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+    "visited": false
+  },
+  {
+    "id": "6",
+    "name": "Mount Fuji",
+    "description": "An active volcano and Japan's tallest mountain, located near Tokyo.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mt.Fuji_from_misaka_pass_4.jpg",
+    "visited": false
+  },
+  {
+    "id": "7",
+    "name": "Stonehenge",
+    "description": "A prehistoric monument consisting of a ring of standing stones in Wiltshire, England.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+    "visited": false
+  },
+  {
+    "id": "8",
+    "name": "Christ the Redeemer",
+    "description": "An iconic statue of Jesus Christ in Rio de Janeiro, Brazil.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "visited": false
+  },
+  {
+    "id": "9",
+    "name": "Eiffel Tower",
+    "description": "A wrought-iron lattice tower in Paris, France, and a global cultural icon.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+    "visited": false
+  },
+  {
+    "id": "10",
+    "name": "Banff National Park",
+    "description": "Canada's oldest national park, located in the Rocky Mountains of Alberta.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Lake_Louise_17092005_1.jpg",
+    "visited": false
+  }
+]
